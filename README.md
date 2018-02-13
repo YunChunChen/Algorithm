@@ -1,2 +1,2 @@
-# Algorithm
-This repository contains the homework codes for Algorithm course.
+# Algorithms
+This repository contains the homework codes for Algorithms course.
